@@ -32,11 +32,11 @@ The following are the available API endpoints for interacting with the backend:
 - `POST /users/login`: User login.
 - `GET /users/profile`: Fetch user profile.
 - `GET /users`: Fetch all users (admin-only route).
-- GET /users/:id: Fetch a single user by ID (admin-only route).
-- PATCH /users/:id: Update a user by ID.
-- DELETE /users/:id: Delete a user by ID.
-- POST /post: Create a new post.
-- GET /post: Fetch all posts.
-- GET /post/ownpost: Fetch posts created by the authenticated user.
-- PATCH /post/:postId: Update a post by ID.
-- DELETE /post/:postId: Delete a post by ID.
+- `GET /users/:id`: Fetch a single user by ID (admin-only route).
+- `PATCH /users/:id`: Update a user by ID.
+- `DELETE /users/:id`: Delete a user by ID.
+- `POST /post`: Create a new post.
+- `GET /post`: Fetch all posts.
+- `GET /post/ownpost`: Fetch posts created by the authenticated user.
+- `PATCH /post/:postId`: Update a post by ID.
+- `DELETE /post/:postId`: Delete a post by ID.
