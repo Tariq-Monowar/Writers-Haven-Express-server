@@ -40,3 +40,9 @@ The following are the available API endpoints for interacting with the backend:
 - `GET /post/ownpost`: Fetch posts created by the authenticated user.
 - `PATCH /post/:postId`: Update a post by ID.
 - `DELETE /post/:postId`: Delete a post by ID.
+
+## Contributors
+This project was developed by Tariq Monowar Hossain as part of MERN stack Project.
+
+## Contact
+For any queries or suggestions, feel free to contact us at email: `seamhosain360@gmail.com`  We appreciate your interest in Writer's Haven!
