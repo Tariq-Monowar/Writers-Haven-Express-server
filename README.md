@@ -46,3 +46,7 @@ This project was developed by Tariq Monowar Hossain as part of MERN stack Projec
 
 ## Contact
 For any queries or suggestions, feel free to contact us at email: `seamhosain360@gmail.com` linkedin: `https://www.linkedin.com/in/tariq-monowar-hossain-3a7b941bb/` facebook: `https://www.facebook.com/profile.php?id=100080938471859`  We appreciate your interest in Writer's Haven!
+
+
+
+"Writer's Haven - Empowering writers to share creations! Our Express server enables writers to register, login, and create captivating posts. 🥰 Write your story, and let the world be your audience 🚀
