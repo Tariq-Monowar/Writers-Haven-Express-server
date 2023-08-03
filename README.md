@@ -22,8 +22,8 @@ Welcome to the backend part of Writer's Haven - an online platform for writers t
 1. Clone the repository from the GitHub link: Writer's Haven Express Server.
 2. Install the required dependencies using npm or yarn: `npm install`
 3. Set up your MongoDB database and add your database URI in a .env file. 
-                               `MONGODB_URI=your-mongodb-uri`
-                                `SECRET_KEY=your-secret-key`
+                               ```MONGODB_URI=your-mongodb-uri```
+                                ```SECRET_KEY=your-secret-key```  
 4. Optionally, configure Nodemailer (currently commented in the code) for email services if you plan to enable email verification during user registration.
 5. The backend server will be running at http://localhost:5000 by default.
 ## API Endpoints
