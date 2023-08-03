@@ -1,7 +1,7 @@
 # Writer's Haven - Express Server
 
 Welcome to the backend part of Writer's Haven - an online platform for writers to share their thoughts and creations. This Express server provides the backend functionality for the Writer's Haven application. Here, writers can register, login, create, update, and delete their posts. The server also handles user authentication and authorization, ensuring a secure experience for all users.
-project Link:- https://writers-haven.netlify.app/ (render.com & Netlify)
+- project Link:- https://writers-haven.netlify.app/ (render.com & Netlify)
 ## Features
 - User Registration: Writers can sign up for a new account with a unique username and email. Passwords are securely hashed before being stored in the database
 - User Login: Registered users can log in to their accounts using their email and password. A JSON Web Token (JWT) is generated upon successful login for authorization purposes.
