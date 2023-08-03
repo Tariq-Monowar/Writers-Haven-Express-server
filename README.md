@@ -45,4 +45,4 @@ The following are the available API endpoints for interacting with the backend:
 This project was developed by Tariq Monowar Hossain as part of MERN stack Project.
 
 ## Contact
-For any queries or suggestions, feel free to contact us at email: `seamhosain360@gmail.com`  We appreciate your interest in Writer's Haven!
+For any queries or suggestions, feel free to contact us at email: `seamhosain360@gmail.com` linkedin: `https://www.linkedin.com/in/tariq-monowar-hossain-3a7b941bb/` facebook: `https://www.facebook.com/profile.php?id=100080938471859`  We appreciate your interest in Writer's Haven!
